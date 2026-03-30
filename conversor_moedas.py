@@ -6,7 +6,7 @@ import pandas as pd
 
 # Configuração da página
 st.set_page_config(
-    page_title="💱 Conversor de Moedas do GUILHERME",
+    page_title="💱 Conversor de Moedas Ajustado 2025",
     page_icon="💱",
     layout="centered",
     initial_sidebar_state="collapsed"
